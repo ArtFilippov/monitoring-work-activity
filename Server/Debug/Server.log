@@ -1,0 +1,23 @@
+﻿  SandRecvAll.cpp
+  Server.cpp
+  The contents of <format> are available only with C++20 or later.
+C:\Users\User\Desktop\Server\Server.cpp(108,18): error C2955: "std::lock_guard": для использования класс шаблон требуется список аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\mutex(422): message : см. объявление "std::lock_guard"
+C:\Users\User\Desktop\Server\Server.cpp(108,22): error C2514: "std::lock_guard": невозможно создать шаблон класса.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\mutex(422): message : см. объявление "std::lock_guard"
+C:\Users\User\Desktop\Server\Server.cpp(117,22): error C2514: "std::lock_guard": невозможно создать шаблон класса.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\mutex(422): message : см. объявление "std::lock_guard"
+  TalkToClient.cpp
+  The contents of <format> are available only with C++20 or later.
+C:\Users\User\Desktop\Server\TalkToClient.cpp(76,29): error C2039: "format": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\chrono(46): message : см. объявление "std"
+C:\Users\User\Desktop\Server\TalkToClient.cpp(76,35): error C3861: format: идентификатор не найден
+  View.cpp
+  The contents of <format> are available only with C++20 or later.
+C:\Users\User\Desktop\Server\View.cpp(12,21): error C2039: "format": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(24): message : см. объявление "std"
+C:\Users\User\Desktop\Server\View.cpp(12,27): error C3861: format: идентификатор не найден
+C:\Users\User\Desktop\Server\View.cpp(32,14): error C2039: "format": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(24): message : см. объявление "std"
+C:\Users\User\Desktop\Server\View.cpp(32,20): error C3861: format: идентификатор не найден
+  Создание кода...

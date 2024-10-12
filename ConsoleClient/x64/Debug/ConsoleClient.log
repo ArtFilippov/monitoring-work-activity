@@ -1,0 +1,5 @@
+﻿  MakeScreenShot.cpp
+  TalkToServer.cpp
+C:\Users\User\Desktop\Client\TalkToServer.cpp(63,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  ConsoleClient.vcxproj -> C:\Users\User\Desktop\ConsoleClient\x64\Debug\ConsoleClient.exe
